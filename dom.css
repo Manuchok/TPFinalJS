@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(247, 247, 238);
+    font-family: Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 50px;
+    color:rgb(17, 17, 17);
+}
+
+#container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color:rgb(21, 22, 22);
+    margin: 10px;
+}
