@@ -1,4 +1,3 @@
-import { IVehiculo } from "./Interfaz/IVehiculo.js";
 import { Coche } from "./Vehiculo/Coche.js";
 import { Moto } from "./Vehiculo/Moto.js";
 import { Vehiculo } from "./Vehiculo/Vehiculo.js";
